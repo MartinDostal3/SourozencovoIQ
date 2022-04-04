@@ -151,9 +151,9 @@
             this.label4.Font = new System.Drawing.Font("Monotype Corsiva", 26.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.label4.Location = new System.Drawing.Point(12, 31);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(289, 43);
+            this.label4.Size = new System.Drawing.Size(358, 43);
             this.label4.TabIndex = 8;
-            this.label4.Text = "Princip života Eliny";
+            this.label4.Text = "Princip života sourozence";
             // 
             // IQ
             // 
@@ -165,7 +165,7 @@
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.button1);
             this.Name = "IQ";
-            this.Text = "Princip života Eliny";
+            this.Text = "Princip života sourozence";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
